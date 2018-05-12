@@ -1,0 +1,33 @@
+_repo: My-NeighborsStories-of-the-Welsh-People_16823
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Evans, Caradoc
+    alias: Evans, David
+    birthdate: 1878
+    deathdate: 1945
+    gutenberg_agent_id: '6954'
+    url: http://www.gutenberg.org/2009/agents/6954
+description: ''
+gutenberg_issued: '2005-10-08'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '16823'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wales -- Social life and customs -- Fiction'
+- !lcc 'PR'
+tableOfContents: The two apostles -- According to the pattern -- Earthbred -- For
+  better -- Love and hate -- Treasure and trouble -- Saint David and the prophets
+  -- Joseph's house -- Like brothers -- A widow woman -- Unanswered prayers -- Lost
+  treasure -- Profit and glory.
+title: 'My Neighbors
+
+  Stories of the Welsh People'
+url: http://www.gutenberg.org/ebooks/16823
